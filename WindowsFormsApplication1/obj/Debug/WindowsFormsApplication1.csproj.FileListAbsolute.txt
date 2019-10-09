@@ -1,0 +1,24 @@
+C:\Documents and Settings\dit09c1-0227\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\dit09c1-0227\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\dit09c1-0227\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dit09c1-0227\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\dit09c1-0227\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\dit09c1-0227\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\dit09c1-0227\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\dit09c1-0227\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+J:\publish this in blog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+J:\publish this in blog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+J:\publish this in blog\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+J:\publish this in blog\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+J:\publish this in blog\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+J:\publish this in blog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+J:\publish this in blog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\publish this in blog\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\simulator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Desktop\simulator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Desktop\simulator\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\simulator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
